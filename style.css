@@ -1,0 +1,74 @@
+
+nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  nav img{
+    width: 100px;
+    position: fixed;
+}
+  
+  header {
+    background-color: #eee;
+    color: white;
+    padding: 200px;
+    text-align: center;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://apru.org/wp-content/uploads/2021/12/Monash-University.jpeg);
+    background-position: center;
+    background-size: 100%;
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  main {
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 0 20px;
+  }
+  
+  section {
+    margin-bottom: 50px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about{
+   margin-bottom: 100px;
+  }
+
+.stra{
+    background-color:#333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .direction{
+    margin-bottom: 100px;
+  }
